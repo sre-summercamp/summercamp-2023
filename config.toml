@@ -1,0 +1,71 @@
+baseURL = "https://summercamp.srefrance.org/"
+languageCode = "en-us"
+title = "SummerCamp 2023 - SRE France"
+theme = "devfest-theme-hugo"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+[params]
+    title = "SummerCamp 2023"
+    date = "2023-08-22"
+    description = "Un événement qui met en avant les discussions sur les sujets DevOps et SRE en proposant un cadre naturel et des activités favorisant le partage"
+    images = ["/images/social-share-v4.jpg"]
+    email = "srefranceasso+summercamp@gmail.com"
+    keywords = "event, cloud, sre, devops, summercamp"
+    copyright = "Made with :heart:️ by SRE France"
+    cfpUrl = "https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#ff5c5c"
+    env = "production"
+
+[params.logos]
+    jumbo = "/images/logos/summercamp_color_text.png"
+    header = "/images/logos/summercamp_color_text.png"
+    footer = "/images/logos/summercamp_gray_text.png"
+
+[menu]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[languages.fr]
+    weight = 2
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "Un événement qui met en avant les discussions sur les sujets DevOps et SRE en proposant un cadre naturel et des activités favorisant le partage"
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = true
+    privacyEnhanced = true

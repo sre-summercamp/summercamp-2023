@@ -1,0 +1,72 @@
+- key: open
+  start: '09:00'
+  duration: 60
+  row:
+    start: 1
+    end: 3
+- key: keynote-open
+  start: '10:00'
+  duration: 15
+  row:
+    start: 3
+    end: 4
+- key: pause-1
+  start: '10:15'
+  duration: 15
+  row:
+    start: 4
+    end: 5
+- key: slot-1
+  start: '10:30'
+  duration: 45
+  row:
+    start: 5
+    end: 8
+- key: pause-2
+  start: '11:15'
+  duration: 15
+  row:
+    start: 8
+    end: 9
+- key: slot-2
+  start: '11:30'
+  duration: 15
+  row:
+    start: 9
+    end: 11
+- key: slot-3
+  start: '11:45'
+  duration: 15
+  row:
+    start: 11
+    end: 13
+- key: pause-3
+  start: '12:00'
+  duration: 15
+  row:
+    start: 13
+    end: 14
+- key: office-hours
+  start: '12:15'
+  duration: 30
+  row:
+    start: 14
+    end: 16
+- key: lunch
+  start: '12:45'
+  duration: 75
+  row:
+    start: 16
+    end: 20
+- key: slot-lt-1
+  start: '14:00'
+  duration: 240
+  row:
+    start: 20
+    end: 26
+- key: party
+  start: '19:30'
+  duration: 240
+  row:
+    start: 26
+    end: 32

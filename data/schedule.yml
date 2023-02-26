@@ -1,0 +1,58 @@
+- day: '2022-09-03'
+  start: '09:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: secrets-race-conditions-and-statelessness
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: kubernetes-at-no-scale
+        - slot: slot-3
+          talk: une-cli-pour-les-gouverner-toutes
+        - slot: pause-3
+          talk: __pause
+        - slot: office-hours
+          talk: round_table_1
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: activity_1
+        - slot: party
+          talk: __party
+- day: '2022-09-04'
+  start: '09:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: maximizing-development-experience-by-minimizing-cost-a-dream-come-true-with-argocd-and-istios-overlays
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: de-sre-a-dre
+        - slot: slot-3
+          talk: risques-erreurs-et-expertise
+        - slot: pause-3
+          talk: lightning_talks
+        - slot: office-hours
+          talk: round_table_2
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: activity_2
+        - slot: party
+          talk: __party

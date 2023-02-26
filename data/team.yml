@@ -1,0 +1,28 @@
+- title: Rym
+  type: volunteers
+  subtitle: '#SRE #sysadmin #linux'
+  photo: rym.jpg
+  socials:
+    - link: 'https://twitter.com/rym_r'
+      name: Twitter
+  key: rym
+- title: Mathieu Tortuyaux
+  type: volunteers
+  subtitle: 'Proud @flatcar team member, IT volunteer at @ISF_France and @SREFrance'
+  photo: mathieu_tortuyaux.jpg
+  socials:
+    - link: 'https://twitter.com/tormath1'
+      name: Twitter
+    - link: 'https://github.com/tormath1'
+      name: Github
+  key: mathieu_tortuyaux
+- title: Pablo Seminario
+  type: volunteers
+  subtitle: 'SRE @Resiliencecare #OpenSource #Linux #Python'
+  photo: pablo_seminario.jpg
+  socials:
+    - link: 'https://twitter.com/pabluk'
+      name: Twitter
+    - link: 'https://github.com/pabluk'
+      name: Github
+  key: pablo_seminario

@@ -1,0 +1,16 @@
+id: sre-france-summercamp-2022
+name: SummerCamp 2022
+address:
+  formattedAddress: "La Dynamo, 24 avenue Daniel Rops, 73000 CHAMBERY"
+  locality:
+    short_name: Chambéry
+    long_name: Chambéry
+  country:
+    short_name: FR
+    long_name: France
+  latLng:
+    lat: 45.59028480621147
+    lng: 5.920346292820766
+dates:
+  start: '2022-09-03T09:00:00.000Z'
+  end: '2022-09-04T17:00:00.000Z'

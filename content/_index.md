@@ -9,6 +9,9 @@ menu:
 ---
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="SummerCamp 2023" %}}
 
+## 2nd and 3rd September, 2023
+### La Dynamo, Chambéry, France
+
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/summercamp-2023-deck.pdf" target="_blank">Become a sponsor</a>
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-summercamp.github.io/" target="_blank">Edition 2022</a>

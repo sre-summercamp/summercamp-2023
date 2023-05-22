@@ -31,6 +31,6 @@ Les soumissions sont ouvertes jusqu'au 21 août 2023. N'attendez pas le dernier 
 
 Pour envoyer vos propositions il faut un compte Github, mais si vous n'avez pas de compte vous pouvez toujours envoyer votre abstract par e-mail à l'adresse srefranceasso+summercamp@gmail.com en incluant le titre, votre nom, la durée et l'abstract.
 
-Comme c'est la seconde édition du SummerCamp, on ne peut pas encore inviter les conférencier·e·s mais pas rapport à l'édition précédente il ne sera pas requis de payer son entrée.
+Comme c'est la seconde édition du SummerCamp, on ne peut pas encore inviter (hôtel, transports, etc.) les conférencier·e·s mais pas rapport à l'édition précédente il n'est pas nécessaire de son entrée.
 
 Des questions ? Vous pouvez écrire un message à l'équipe à srefranceasso+summercamp@gmail.com.

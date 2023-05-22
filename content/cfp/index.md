@@ -34,6 +34,6 @@ As explained above, the CFP will be opened until August 21, 2023. Do not wait un
 
 The submission form requires a Github account, but if you don't have an account you can always send your abstract by e-mail to srefranceasso+summercamp@gmail.com including a title, your name, duration and the abstract.
 
-Since it's the second edition of the Summer Camp, we can't yet invite the speakers but in comparison to previous year, I won't be required to pay the entrance.
+Since it's the second edition of the Summer Camp, we can't yet invite the speakers but in comparison to previous year, It won't be required to pay the entrance.
 
 If you have any questions, you can contact us at srefranceasso+summercamp@gmail.com.

@@ -1,5 +1,5 @@
-id: sre-france-summercamp-2022
-name: SummerCamp 2022
+id: sre-france-summercamp-2023
+name: SummerCamp 2023
 address:
   formattedAddress: "La Dynamo, 24 avenue Daniel Rops, 73000 CHAMBERY"
   locality:
@@ -12,5 +12,5 @@ address:
     lat: 45.59028480621147
     lng: 5.920346292820766
 dates:
-  start: '2022-09-03T09:00:00.000Z'
-  end: '2022-09-04T17:00:00.000Z'
+  start: '2022-09-02T09:00:00.000Z'
+  end: '2022-09-03T17:00:00.000Z'

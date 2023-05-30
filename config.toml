@@ -34,6 +34,13 @@ enableMissingTranslationPlaceholders = true
 [markup.goldmark.renderer]
 unsafe= true
 
+[[menu.main]]
+    identifier = "cfp"
+    name = "CFP"
+    url = "/cfp"
+    weight = 190
+    external = false
+
 [languages]
 [languages.en]
     weight = 1

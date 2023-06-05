@@ -18,6 +18,8 @@ Le [CFP](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-
 * Retours d'expérience
 * WTF et autres... une idée de talk mais qui n'entre pas dans les précédentes catégories
 
+_NOTE_: Le SRE France SummerCamp est un événement qui prône et encourage l'utilisation et le développement des logiciels libres, les présentations d'outils propriétaires ou ayant la forme d'une démarche commerciale ne seront pas forcément acceptées.
+
 ## Formats
 
 Deux types de présentations sont proposées :

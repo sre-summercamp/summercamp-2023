@@ -19,6 +19,9 @@ While waiting for the D-day do not hesitate to propose your talk at [CFP](https:
 * Experience feedback
 * WTF and other : if your talk does not fit in any of the previous categories.
 
+_NOTE_: SRE France SummerCamp is an event that promotes Free and Open-Source Software (FOSS) if the proposed talk is about proprietary software
+or looks like a business move it won't be necessarily accepted.
+
 
 ## Formats
 

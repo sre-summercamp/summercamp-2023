@@ -12,11 +12,17 @@ menu:
 ## 2 et 3 septembre 2023
 ### La Dynamo, Chambéry
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-france.assoconnect.com/collect/description/319149-e-sre-france-summercamp-2023" target="_blank">S'inscrire</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-france.assoconnect.com/collect/description/319149-e-sre-france-summercamp-2023" target="_blank">
+    <svg class="icon icon-ticket"><use xlink:href="#ticket"></use></svg>S'inscrire
+</a>
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-summercamp.github.io/" target="_blank">Édition 2022</a>
+<a class="btn primary btn-lg" href="/fr/cfp/">
+    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Proposer une présentation
+</a>
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/summercamp-2023-deck.pdf" target="_blank">Devenez sponsor</a>
+
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-summercamp.github.io/" target="_blank">Édition 2022</a>
 
 {{% /jumbo %}}
 

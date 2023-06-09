@@ -25,3 +25,7 @@ menu:
 
 A tech conference close to nature
 {{% /home-info %}}
+
+{{% partners categories="gold,soutien,communautes,media" %}}
+## Sponsors
+{{% /partners %}}

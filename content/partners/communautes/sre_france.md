@@ -9,4 +9,4 @@ socials: []
 
 Find SRE France on [sre-france.github.io](https://sre-france.github.io/)
 
-![SRE France](/images/partners/community/sre-france.png)
+![SRE France](/images/partners/communautes/sre_france.jpg)

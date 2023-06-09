@@ -12,7 +12,9 @@ menu:
 ## 2nd and 3rd September, 2023
 ### La Dynamo, Chambéry, France
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-france.assoconnect.com/collect/description/319149-e-sre-france-summercamp-2023" target="_blank">Registration</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-france.assoconnect.com/collect/description/319149-e-sre-france-summercamp-2023" target="_blank">
+    <svg class="icon icon-ticket"><use xlink:href="#ticket"></use></svg>Registration
+</a>
 
 <a class="btn primary btn-lg" href="/cfp/">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation

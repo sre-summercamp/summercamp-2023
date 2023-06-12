@@ -1,5 +1,8 @@
 ---
 title: FAQs
+menu:
+  main:
+    weight: 80
 draft: false
 ---
 ### C'est quoi le SRE France SummerCamp ?

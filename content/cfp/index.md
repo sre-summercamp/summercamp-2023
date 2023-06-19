@@ -1,11 +1,11 @@
 ---
 title: Call For Paper
-brief: The CFP is opened till 21 August 2023
+brief: The CFP is opened till 17th July 2023 23h59
 draft: false
 ---
 SRE Summer Camp will take place on September 2-3, 2023 at La Dynamo, Chambéry, France.
 
-While waiting for the D-day do not hesitate to propose your talk at [CFP](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml). It is now open until August 21, 2023.
+While waiting for the D-day do not hesitate to propose your talk at [CFP](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml). It is now open until July 17, 2023, 23h59.
 
 
 ## Categories
@@ -33,7 +33,7 @@ Two types of conferences are available:
 
 ## Let's propose a talk!
 
-As explained above, the CFP will be opened until August 21, 2023. Do not wait until the last minute to [propose yours](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml)!
+As explained above, the CFP will be opened until July 17, 2023, 23h59. Do not wait until the last minute to [propose yours](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml)!
 
 The submission form requires a Github account, but if you don't have an account you can always send your abstract by e-mail to srefranceasso+summercamp@gmail.com including a title, your name, duration and the abstract.
 

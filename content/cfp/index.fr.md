@@ -1,11 +1,11 @@
 ---
 title: Appel À Orateurs
-brief: Les soumissions sont ouvertes jusqu'au 21 août 2023
+brief: Les soumissions sont ouvertes jusqu'au 17 juillet 2023 23h59.
 draft: false
 ---
 Pour sa seconde édition, le SRE SummerCamp aura lieu le 2 et 3 septembre 2023 à La Dynamo, Chambéry.
 
-Le [CFP](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml) (Call For Papers / Appel à Orateurs/Oratrices) du SRE SummerCamp est désormais ouvert ! Il est possible de soumettre jusqu'au 21 août 2023.
+Le [CFP](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml) (Call For Papers / Appel à Orateurs/Oratrices) du SRE SummerCamp est désormais ouvert ! Il est possible de soumettre jusqu'au 17 juillet 2023 23h59.
 
 ## Catégories
 
@@ -29,7 +29,7 @@ Deux types de présentations sont proposées :
 
 ## Je soumets !
 
-Les soumissions sont ouvertes jusqu'au 21 août 2023. N'attendez pas le dernier moment, [soumettez un talk dès à présent](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml) !
+Les soumissions sont ouvertes jusqu'au 17 juillet 2023 23h59. N'attendez pas le dernier moment, [soumettez un talk dès à présent](https://github.com/sre-france/meetups/issues/new?assignees=&labels=sre-summercamp&template=new-proposal-sre-summercamp.yml) !
 
 Pour envoyer vos propositions il faut un compte Github, mais si vous n'avez pas de compte vous pouvez toujours envoyer votre abstract par e-mail à l'adresse srefranceasso+summercamp@gmail.com en incluant le titre, votre nom, la durée et l'abstract.
 

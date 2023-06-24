@@ -8,7 +8,7 @@ draft: false
 
 ### SRE France SummerCamp - what is it? 
 
-It's a two days event mixing talks and outdoor activies to encourage discussions around the topics seen during the conferences. SRE France is an association that organizes meetups and events around DevOps and SRE topics in France.
+It's a two days event mixing talks and outdoor activities to encourage discussions around the topics seen during the conferences. SRE France is an association that organizes meetups and events around DevOps and SRE topics in France.
 
 ### Where and when?
 

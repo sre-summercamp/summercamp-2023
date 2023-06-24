@@ -10,7 +10,7 @@ While waiting for the D-day do not hesitate to propose your talk at [CFP](https:
 
 ## Categories
 
-* Principes and best practices SRE
+* Principles and best practices SRE
 * On-call
 * Monitoring
 * Incident management

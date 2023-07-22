@@ -5,7 +5,7 @@ draft: false
 ---
 Pour sa seconde édition, le SRE SummerCamp aura lieu le 2 et 3 septembre 2023 à La Dynamo, Chambéry.
 
-Les soumissions ont fermé le 17 juillet 2023 23h59. Merci à toutes et tous, le commité de revue contactera les speakers rapidement.
+Les soumissions ont fermé le 17 juillet 2023 23h59. Merci à toutes et tous, le comité de revue contactera les speakers rapidement.
 
 Des questions ? Vous pouvez écrire un message à l'équipe à srefranceasso+summercamp@gmail.com.
 

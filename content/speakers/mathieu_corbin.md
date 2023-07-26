@@ -13,6 +13,6 @@ socials:
     link: 'https://github.com/mcorbin'
     name: mcorbin
 ---
-Ingénieur ayant la double casquette dev et ops, Je suis aujourd'hui Senior Staff SRE chez Qonto où je travaille sur tout type de problématiques.
+Ingénieur ayant la double casquette dev et ops, je suis aujourd'hui Senior Staff SRE chez Qonto où je travaille sur tout type de problématiques.
 
 [Site web](https://www.mcorbin.fr/)

@@ -5,7 +5,7 @@ id: 6BAy067Wsnxl1hZFbtUt
 tags:
   - _iac
 level: intermediate
-language: Français
+language: French
 format: conference
 speakers:
   - arthur_busser

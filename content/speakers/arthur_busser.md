@@ -3,7 +3,7 @@ key: arthur_busser
 name: Arthur Busser
 id: pYuiGicpt0MenD8NEMhZXtk6VSr1
 feature: false
-company: Padok
+company: Pigment
 photoURL: /images/speakers/arthur_busser.jpg
 socials:
   - icon: twitter
@@ -13,4 +13,4 @@ socials:
     link: 'https://github.com/busser'
     name: busser
 ---
-Arthur is an SRE @ Padok where he builds cloud infrastructure. He maintains a couple open source projects and believes in keeping things simple.
+Arthur est un SRE parisien. Il travaille sur Pigment, une application cloud native, axée sur les données et à l'échelle mondiale. Il aime fabriquer des outils qui rendent les ingénieur·e·s plus productif·ve·s et estime que la simplicité est essentielle.

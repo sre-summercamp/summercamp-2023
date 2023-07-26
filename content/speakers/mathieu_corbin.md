@@ -1,7 +1,7 @@
 ---
 key: mathieu_corbin
 name: Mathieu Corbin
-id: pYuiGicpt0MenD8NEMhZXtk6VSr1
+id: QCcyq6gfUVwK2fpNtiE9UsJfskPz
 feature: false
 company: Qonto
 photoURL: /images/speakers/mathieu_corbin.jpg
@@ -13,6 +13,6 @@ socials:
     link: 'https://github.com/mcorbin'
     name: mcorbin
 ---
-Je suis Staff SRE chez Qonto où je travaille sur tout type de problématiques.
+Ingénieur ayant la double casquette dev et ops, je suis aujourd'hui Senior Staff SRE chez Qonto où je travaille sur tout type de problématiques.
 
 [Site web](https://www.mcorbin.fr/)

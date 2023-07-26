@@ -22,6 +22,21 @@
 - key: _wtf
   name: "\U0001F381 WTF"
   id: 8ab523e2-022d-5d16-924c-da4477ddb881
+- key: _principles___best_practices
+  name: "\U0001F4A1 Principles & Best Practices"
+  id: 020c03e0-fe81-4230-83b2-09f86618df62
+- key: _incident___management
+  name: "\U0001F9EF Incident Management"
+  id: be4bb835-1863-4bfb-b9fd-ab9aa8eecadf
+- key: _observability
+  name: "\U0001F50E Observability"
+  id: 943fab5b-95fb-4599-b7b2-c48f3234f77f
+- key: _iac
+  name: "\U0001F6E0 Infrastructure as Code"
+  id: 6a67fee6-d2c2-442c-94dd-479248c916da
+- key: _rex
+  name: "\U0001F4DD Experience/Feedback"
+  id: 4d41ac1a-a5b3-4974-a599-f5e307a04865
 - key: keynote
   name: Keynote
 - key: lunch

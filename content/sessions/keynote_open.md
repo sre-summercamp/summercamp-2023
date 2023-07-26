@@ -6,7 +6,6 @@ tags:
   - keynote
 speakers: []
 draft: false
-videoId: Y4JmMXf55Ow
 ---
 Bienvenues au SRE Summer Camp 2022
 ---

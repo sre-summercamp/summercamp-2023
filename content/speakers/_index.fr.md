@@ -1,5 +1,8 @@
 ---
 title: Présentateurs
+menu:
+  main:
+      weight: 40
 draft: false
 ---
 

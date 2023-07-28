@@ -1,4 +1,4 @@
-- day: '2022-09-03'
+- day: '2023-09-02'
   start: '09:00'
   rooms:
     - room: room1
@@ -27,7 +27,7 @@
           talk: activity_1
         - slot: party
           talk: __party
-- day: '2022-09-04'
+- day: '2023-09-03'
   start: '09:00'
   rooms:
     - room: room1

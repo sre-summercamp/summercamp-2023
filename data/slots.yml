@@ -6,67 +6,81 @@
     end: 3
 - key: keynote-open
   start: '10:00'
-  duration: 15
+  duration: 10
   row:
     start: 3
     end: 4
-- key: pause-1
-  start: '10:15'
-  duration: 15
+- key: slot-1
+  start: '10:10'
+  duration: 40
   row:
     start: 4
-    end: 5
-- key: slot-1
-  start: '10:30'
-  duration: 45
+    end: 7
+- key: pause-1
+  start: '10:50'
+  duration: 10
   row:
-    start: 5
+    start: 7
     end: 8
-- key: pause-2
-  start: '11:15'
-  duration: 15
+- key: slot-2
+  start: '11:00'
+  duration: 40
   row:
     start: 8
-    end: 9
-- key: slot-2
-  start: '11:30'
-  duration: 15
-  row:
-    start: 9
     end: 11
-- key: slot-3
-  start: '11:45'
-  duration: 15
+- key: pause-2
+  start: '11:40'
+  duration: 10
   row:
     start: 11
-    end: 13
-- key: pause-3
-  start: '12:00'
+    end: 12
+- key: slot-3
+  start: '11:50'
   duration: 15
   row:
-    start: 13
+    start: 12
     end: 14
-- key: office-hours
-  start: '12:15'
-  duration: 30
+- key: lunch
+  start: '12:05'
+  duration: 115
   row:
     start: 14
-    end: 16
-- key: lunch
-  start: '12:45'
-  duration: 75
-  row:
-    start: 16
-    end: 20
+    end: 17
 - key: slot-lt-1
   start: '14:00'
-  duration: 240
+  duration: 210
   row:
-    start: 20
-    end: 26
+    start: 17
+    end: 23
 - key: party
   start: '19:30'
   duration: 240
   row:
+    start: 23
+    end: 27
+
+- key: lightning-talks
+  start: '12:05'
+  duration: 25
+  row:
+    start: 14
+    end: 16
+- key: lunch-day-2
+  start: '12:30'
+  duration: 90
+  row:
+    start: 16
+    end: 19
+- key: slot-lt-2
+  start: '14:00'
+  duration: 180
+  row:
+    start: 19
+    end: 26
+- key: close
+  start: '17:00'
+  duration: 210
+  row:
     start: 26
-    end: 32
+    end: 27
+

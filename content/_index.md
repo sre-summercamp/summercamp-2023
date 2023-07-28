@@ -16,10 +16,6 @@ menu:
     <svg class="icon icon-ticket"><use xlink:href="#ticket"></use></svg>Registration
 </a>
 
-<a class="btn primary btn-lg" href="/cfp/">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
-</a>
-
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/summercamp-2023-deck-en.pdf" target="_blank">Become a sponsor</a>
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-summercamp.github.io/" target="_blank">Edition 2022</a>

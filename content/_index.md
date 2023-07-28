@@ -32,6 +32,33 @@ menu:
 A tech conference close to nature
 {{% /home-info %}}
 
+{{% home-location
+    image="/images/map.jpg"
+    address="24 Avenue Daniel Rops, 73000 Chambéry"
+    latitude="45.59028480621147"
+    longitude="5.920346292820766" %}}
+
+## The venue
+
+### La Dynamo
+
+Installed at the entrance to the Priority Political District of the City of Hauts de Chambéry and opened in the spring of 2018, La Dynamo, a municipal institution of the city of Chambéry, is today a place of experimentation and social innovation which hosts a ecosystem of actors, services and activities dedicated to youth, digital technology, professional integration, urban cultures, social innovation and international relations.
+
+{{% /home-location %}}
+
+<!-- ... -->
+
+{{% album images="/images/album/highres_171751681.jpeg,/images/album/highres_000132247.jpeg,/images/album/highres_000133243.jpeg,/images/album/highres_000150322.jpeg,/images/album/la-dynamo.jpg,/images/album/highres_000155220.jpeg,/images/album/highres_000085651.jpeg,images/album/highres_171751690.jpeg" %}}
+
+### Some pictures of the previous edition
+
+<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/MigQPsNcrAMEfuGQ9">
+    See all photos
+    {{% icon "right" %}}
+</a>
+
+{{% /album  %}}
+
 {{% partners categories="gold,soutien,communautes,media" %}}
 ## Sponsors
 {{% /partners %}}

@@ -7,7 +7,7 @@ tags:
 speakers: []
 draft: false
 ---
-Bienvenues au SRE Summer Camp 2022
+Bienvenues au SRE SummerCamp 2023
 ---
 
 Présentation de la conférence par les organisateurs.

@@ -44,7 +44,7 @@ Installed at the entrance to the Priority Political District of the City of Haut
 
 <!-- ... -->
 
-{{% album images="/images/album/highres_171751681.jpeg,/images/album/highres_000132247.jpeg,/images/album/highres_000133243.jpeg,/images/album/highres_000150322.jpeg,/images/album/la-dynamo.jpg,/images/album/highres_000155220.jpeg,/images/album/highres_000085651.jpeg,images/album/highres_171751690.jpeg" %}}
+{{% album images="/images/album/highres_171751681.jpeg,/images/album/highres_000132247.jpeg,/images/album/highres_000133243.jpeg,/images/album/highres_000150322.jpeg,/images/album/la-dynamo.jpg,/images/album/highres_000155220.jpeg,/images/album/highres_000085651.jpeg,/images/album/highres_171751690.jpeg" %}}
 
 ### Some pictures of the previous edition
 

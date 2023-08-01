@@ -1,4 +1,4 @@
-- day: '2022-09-03'
+- day: '2023-09-02'
   start: '09:00'
   rooms:
     - room: room1
@@ -7,27 +7,23 @@
           talk: __open
         - slot: keynote-open
           talk: keynote_open
+        - slot: slot-1
+          talk: 5-reliability-anti-patterns
         - slot: pause-1
           talk: __pause
-        - slot: slot-1
-          talk: secrets-race-conditions-and-statelessness
+        - slot: slot-2
+          talk: maitrisez-votre-code-terraform
         - slot: pause-2
           talk: __pause
-        - slot: slot-2
-          talk: kubernetes-at-no-scale
         - slot: slot-3
-          talk: une-cli-pour-les-gouverner-toutes
-        - slot: pause-3
-          talk: __pause
-        - slot: office-hours
-          talk: round_table_1
+          talk: gerer-efficacement-les-incidents-en-production
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
           talk: activity_1
         - slot: party
           talk: __party
-- day: '2022-09-04'
+- day: '2023-09-03'
   start: '09:00'
   rooms:
     - room: room1
@@ -36,23 +32,21 @@
           talk: __open
         - slot: keynote-open
           talk: keynote_open
+        - slot: slot-1
+          talk: navigating-the-challenges-of-open-source-contribution
         - slot: pause-1
           talk: __pause
-        - slot: slot-1
-          talk: maximizing-development-experience-by-minimizing-cost-a-dream-come-true-with-argocd-and-istios-overlays
+        - slot: slot-2
+          talk: vault-what-for
         - slot: pause-2
           talk: __pause
-        - slot: slot-2
-          talk: de-sre-a-dre
         - slot: slot-3
-          talk: risques-erreurs-et-expertise
-        - slot: pause-3
+          talk: cheri-e-j-ai-blinky-la-prod
+        - slot: lightning-talks
           talk: lightning_talks
-        - slot: office-hours
-          talk: round_table_2
-        - slot: lunch
+        - slot: lunch-day-2
           talk: __lunch
-        - slot: slot-lt-1
+        - slot: slot-lt-2
           talk: activity_2
-        - slot: party
-          talk: __party
+        - slot: close
+          talk: __close

@@ -8,7 +8,7 @@
         - slot: keynote-open
           talk: keynote_open
         - slot: slot-1
-          talk: 5-reliability-anti-patterns
+          talk: devops-dans-le-monde-geospatial-et-ses-outils-cloud-native
         - slot: pause-1
           talk: __pause
         - slot: slot-2

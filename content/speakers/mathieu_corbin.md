@@ -4,7 +4,7 @@ name: Mathieu Corbin
 id: QCcyq6gfUVwK2fpNtiE9UsJfskPz
 feature: false
 company: Qonto
-photoURL: /images/speakers/mathieu_corbin.jpg
+photoURL: images/speakers/mathieu_corbin.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/_mcorbin'

@@ -4,7 +4,7 @@ name: David Aparicio
 id: OOKdR6QCbJqyILs3dnxSB7XgrwXl
 feature: false
 company: OVH Cloud
-photoURL: /images/speakers/david_aparicio.jpg
+photoURL: images/speakers/david_aparicio.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/dadideo'

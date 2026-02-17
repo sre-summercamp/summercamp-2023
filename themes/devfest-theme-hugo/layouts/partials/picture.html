@@ -18,12 +18,12 @@
 			{{ if (gt . $max) }}
 				{{ $max := . }}
 			{{ end }}
-	<source srcset="{{ $imgBase }}-{{.}}.webp" type="image/webp" media="(max-width: {{.}}px)">
+	<source srcset="{{ relURL $imgBase }}-{{.}}.webp" type="image/webp" media="(max-width: {{.}}px)">
 		{{ end }}
-	<source srcset="{{ $imgBase }}.webp" type="image/webp" media="(min-width: {{ $max }}px)">
+	<source srcset="{{ relURL $imgBase }}.webp" type="image/webp" media="(min-width: {{ $max }}px)">
 	{{ else }}
-	<source srcset="{{ $imgBase }}.webp" type="image/webp">
+	<source srcset="{{ relURL $imgBase }}.webp" type="image/webp">
 	{{ end }}
-	<source srcset="{{ $img }}">
-	<img src="{{ $img }}" alt="">
+	<source srcset="{{ relURL $img }}">
+	<img src="{{ relURL $img }}" alt="">
 </picture>

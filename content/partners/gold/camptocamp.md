@@ -3,7 +3,7 @@ key: camptocamp
 title: Camptocamp
 category: gold
 order: 1
-logo: /images/partners/gold/c2c.png
+logo: images/partners/gold/camptocamp.png
 website: 'https://www.camptocamp.com/'
 lang: fr
 socials:

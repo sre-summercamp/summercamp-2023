@@ -2,7 +2,7 @@
 key: kube_careers
 title: Kube Careers
 category: media
-logo: /images/partners/media/logo-color@2x.png
+logo: images/partners/media/kube_careers.png
 website: 'https://kube.careers/'
 socials: []
 ---

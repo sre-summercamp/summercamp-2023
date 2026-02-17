@@ -4,7 +4,7 @@ name: Emilien Devos
 id: 0gUox7i2KmKQy5WWuw0dykWrlWxl
 feature: false
 company: Camptocamp
-photoURL: /images/speakers/emilien_devos.jpg
+photoURL: images/speakers/emilien_devos.jpg
 socials:
   - icon: github
     link: 'https://github.com/unixfox'

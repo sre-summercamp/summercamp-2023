@@ -4,7 +4,7 @@ name: Matthis Holleville
 id: LGCCOqPBUd17tBkkohHzdFAlqEBu
 feature: false
 company: Agicap
-photoURL: /images/speakers/matthis_holleville.jpg
+photoURL: images/speakers/matthis_holleville.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/sreguys'

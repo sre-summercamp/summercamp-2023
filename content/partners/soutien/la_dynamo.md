@@ -3,7 +3,7 @@ key: la_dynamo
 title: La Dynamo Chambéry
 category: soutien
 order: 1
-logo: /images/partners/soutien/la_dynamo.jpg
+logo: images/partners/soutien/la_dynamo.jpg
 website: 'https://ladynamo.chambery.fr/'
 lang: fr
 why: >

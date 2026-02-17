@@ -4,7 +4,7 @@ name: Arthur Busser
 id: pYuiGicpt0MenD8NEMhZXtk6VSr1
 feature: false
 company: Pigment
-photoURL: /images/speakers/arthur_busser.jpg
+photoURL: images/speakers/arthur_busser.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/ArthurBusser'

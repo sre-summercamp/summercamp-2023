@@ -2,7 +2,7 @@
 key: kube_events
 title: Kube Events
 category: media
-logo: /images/partners/media/logo-circle-light-bg@2x.png
+logo: images/partners/media/kube_events.png
 website: 'https://kube.events/'
 socials: []
 ---

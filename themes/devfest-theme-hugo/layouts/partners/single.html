@@ -2,7 +2,7 @@
 
 <section class="header">
 
-	{{ $img := relURL (path.Join "images" "partners" .Params.category .Params.key) }}
+	{{ $img := relURL .Params.logo }}
 	{{ partial "picture" (dict "img" $img "class" "card") }}
 
 	<h1>{{ .Title }}</h1>

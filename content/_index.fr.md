@@ -7,7 +7,7 @@ menu:
     weight: -1
 
 ---
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="SummerCamp 2023" %}}
+{{% jumbo img="images/backgrounds/back-0.jpg" imgLabel="SummerCamp 2023" %}}
 
 ## 2 et 3 septembre 2023
 ### La Dynamo, Chambéry
@@ -16,7 +16,7 @@ menu:
     <svg class="icon icon-ticket"><use xlink:href="#ticket"></use></svg>S'inscrire
 </a>
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="/summercamp-2023-deck.pdf" target="_blank">Devenez sponsor</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023/summercamp-2023-deck.pdf" target="_blank">Devenez sponsor</a>
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://sre-summercamp.github.io/" target="_blank">Édition 2022</a>
 
@@ -29,7 +29,7 @@ A tech conference close to nature
 {{% /home-info %}}
 
 {{% home-location
-    image="/images/map.jpg"
+    image="images/map.png"
     address="24 Avenue Daniel Rops, 73000 Chambéry"
     latitude="45.59028480621147"
     longitude="5.920346292820766" %}}
@@ -44,7 +44,7 @@ Installée à l’entrée du Quartier prioritaire Politique de la Ville des Haut
 
 <!-- ... -->
 
-{{% album images="/images/album/highres_171751681.jpeg,/images/album/highres_000132247.jpeg,/images/album/highres_000133243.jpeg,/images/album/highres_000150322.jpeg,/images/album/la-dynamo.jpg,/images/album/highres_000155220.jpeg,/images/album/highres_000085651.jpeg,/images/album/highres_171751690.jpeg" %}}
+{{% album images="images/album/highres_171751681.jpeg,images/album/highres_000132247.jpeg,images/album/highres_000133243.jpeg,images/album/highres_000150322.jpeg,images/album/la-dynamo.jpg,images/album/highres_000155220.jpeg,images/album/highres_000085651.jpeg,images/album/highres_171751690.jpeg" %}}
 
 ### Quelques photos de l'édition précédente
 
